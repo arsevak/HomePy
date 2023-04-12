@@ -1,9 +1,9 @@
 # HomePy
-A prototype of a smart home system written in python that demonstrates smart monitoring over residences such as controlling house temperature, answering doors and safeguarding important places/things using Raspberry Pi and sensors.
+A prototype of a smart home system written in python that demonstrates smart monitoring over residences such as controlling house temperature, answering doors and safeguarding important places/things using Raspberry Pi and Arduino board + sensors.
 
 ## Requirements
 
-This prototype is run on a terminal/command prompt, and utilizes Raspberry Pi and the following components:
+This prototype is run on a terminal/command prompt, and utilizes Raspberry Pi and the following components of the Arduino Board:
 
 1. Button
 2. Buzzer
